@@ -1,2 +1,2 @@
 # project_alicia
-[REDACTED]
+Project Alicia is an upcoming COD4 mod.

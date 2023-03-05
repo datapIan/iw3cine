@@ -6,6 +6,7 @@
 <p align="left">
   <a href="#about">About</a> •
   <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
   <a href="#issues">Issues</a> •
   <a href="#credits">Credits</a>
 </p>

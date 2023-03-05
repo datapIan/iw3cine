@@ -66,8 +66,8 @@ C:/
   
 
 ## Issues
-
-* **BotModel** - Currently, the bot model command will change a bots model, but after the bot dies, it'll crash the game. Better to know what class you want the bot to use when spawning it in.
+* ***Actors*** - Currently there is no support for actors and I don't think there ever will be.
+* ***BotModel*** - Currently, the bot model command will change a bots model, but after the bot dies, it'll crash the game. Better to know what class you want the bot to use when spawning it in.
 
 ## Credits
 

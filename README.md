@@ -11,9 +11,13 @@
   <a href="#credits">Credits</a>
 </p>
 
+<div align="left">
+<a href="https://github.com/datapIan/iw3cine/releases"><img src="https://img.shields.io/github/v/release/datapIan/iw3cine?label=Latest%20Release&style=flat-square"></a>
+  <a href="https://github.com/datapIan/iw3cine/releases""><img src="https://img.shields.io/github/downloads/datapIan/iw3cine/total?style=flat-square"></a>
+
 ## About
 
-Sass' mod changed the editing game, and it's what we've all used for cinematics for as long as we can remember. I believed the same level of personalization should be in every other game. So I did it.
+ - Sass' mod changed the editing game, and it's what we've all used for cinematics for as long as we can remember. I believed the same level of personalization should be in every other game. So I did it.
 This mod is for those who want to make really specific cinematics, if you're looking for more "real-style" demo creation, I would recommend looking into [Kruumy's COD4 Editing Mod](https://github.com/kruumy/cod4-editing-mod).
 
 99% of the code was written by Sass, I take no credit for the work he has done, I just changed a few things to make it work on COD4.

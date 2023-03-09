@@ -28,7 +28,7 @@ There's two types of installations for this mod. One for the *iw3xo* client, and
 
 #### [IW3xo](https://xoxor4d.github.io/projects/iw3xo/) (Recommended)
 
-* Download the mod from [here](), extract and drag the "iw3cine" folder into your mods folder.
+* Download the mod from [here](https://github.com/datapIan/iw3cine/releases/latest), extract and drag the "iw3cine" folder into your mods folder.
 ```text
 C:/
 └── .../
@@ -40,7 +40,7 @@ C:/
 
 #### COD4 Steam / [COD4x](https://cod4x.ovh/)
 
-* Download the mod from [here](), extract. Make a folder inside your mods folder and drag the "maps" folder into it. This new folder will be the name of the mod, so rename it to something nice.
+* Download the mod from [here](https://github.com/datapIan/iw3cine/releases/latest), extract. Make a folder inside your mods folder and drag the "maps" folder into it. This new folder will be the name of the mod, so rename it to something nice.
 ```text
 C:/
 └── .../
